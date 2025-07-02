@@ -31,7 +31,7 @@
 })(window,document);
 
 // Initialize Amplitude with your API Key
-amplitude.init("YOUR_API_KEY_HERE");
+amplitude.init("1aa939d5c830e91444cfe4fb0ed158d6");
 
 document.addEventListener("DOMContentLoaded", function () {
   const registerBtn = document.getElementById("register-btn");
